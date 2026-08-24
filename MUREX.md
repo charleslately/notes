@@ -1,58 +1,51 @@
-# 📒 Notes
+# Notes
 
-[![SVG](https://img.shields.io/badge/README-Notes-blue?style=for-the-badge&logo=markdown)](https://github.com/charleslately/notes/blob/main/README.md#notes)
+## Request
 
----
+### Evandro MOTA
 
-# 👤 Contacts & Requests
-
-## Evandro MOTA
-
-| Field | Details |
+| Field | Value |
 |---|---|
-| 📅 Submitted | 23-Jul-26 11:35:14 |
-| 🔢 Request Number | REQ0780699 |
-| 🚚 Estimated Delivery | 24-Jul-26 |
+| Submitted | 23-Jul-26 11:35:14 |
+| Request Number | REQ0780699 |
+| Estimated Delivery | 24-Jul-26 |
 
 ---
 
-# 💡 Ideas & Discussions
+## Topics & Updates
 
-## AI / Innovation
+### AI / Innovation
 
-- 🖼️ AI-generated photo of ideas from **Nabil**
-  - Topics:
-    - MXTIME
-    - CSCRM
+- AI-generated photo related to Nabil's ideas around:
+  - MXTIME
+  - CSCRM
 
-## Resource / Client Updates
+### Client / Resource Updates
 
-- **ICCREA**
-  - ➕ Increase: Othneil
-
-- **Siemens-FS**
-  - ➖ Decrease: Patrick
+| Client | Change | Person |
+|---|---|---|
+| ICCREA | Increase | Othneil |
+| Siemens-FS | Decrease | Patrick |
 
 ---
 
-# 🏦 ING Summit
+# ING Summit
 
 ## Client Case
 
-**Case ID:** `C-2433000`
+**Case:** C-2433000
 
-🔗 Jira:
+Jira:
 https://mxjira.murex.com/browse/CBR-13268
 
 ---
 
-# 👥 Team Updates
+# Team Updates
 
 ## Joseph Aoun
 
-📅 Planned **paternity leave**
+**Paternity leave planned:**
 
-Period:
 - November
 - December
 - Mid-January
@@ -61,58 +54,51 @@ Period:
 
 ## Patrick Sarkis
 
-🎯 Objective:
+Objective:
 
-> Increase exposure to functional topics across the FO → BO chain.
+Increase exposure to functional topics across the FO-to-BO chain.
 
-Areas of interest:
+Focus areas:
+
 - Front Office (FO)
 - Back Office (BO)
 - Functional topics
 
 ---
 
-# 🔐 Security
+# Security
 
 ## Passkeys Setup
 
 Documentation:
 
-🔗  
 https://murex.service-now.com/now/nav/ui/classic/params/target/kb_view.do%3Fsysparm_article%3DKB0016771
 
 ---
 
-# 👤 Octavio
+# Octavio
 
 ## Resource Allocation
 
-- 📅 June resource
-- Assignment:
-  - ING SUPPORT
+June resource assignment:
+
+- ING Support
 
 ---
 
-# 🎓 Training
+# Training
 
 ## MxLearn Course
 
 Training link:
 
-🔗  
 https://mxlearn.360learning.com/course/play/69b966db15c54b4870cc6d10
 
 ---
 
-# 🤖 AI Topics
+# AI Topics
 
 ## SBI AI
 
 - Explore SBI AI topics
 - Follow-up required
-
----
-
-# 🏷️ Tags
-
-`#ING` `#AI` `#MXTIME` `#CSCRM` `#Training` `#Security` `#Resources`
