@@ -1,37 +1,118 @@
-# notes
+# 📒 Notes
 
+[![SVG](https://img.shields.io/badge/README-Notes-blue?style=for-the-badge&logo=markdown)](https://github.com/charleslately/notes/blob/main/README.md#notes)
 
-Evandro MOTA
+---
 
-Submitted :23-Jul-26 11:35:14
+# 👤 Contacts & Requests
 
-Request Number : REQ0780699
+## Evandro MOTA
 
-Estimated Delivery : 24-Jul-26
+| Field | Details |
+|---|---|
+| 📅 Submitted | 23-Jul-26 11:35:14 |
+| 🔢 Request Number | REQ0780699 |
+| 🚚 Estimated Delivery | 24-Jul-26 |
 
-AI-photo of ideas of Nabil on MXTIME and CSCRM
+---
 
-ICCREA increase Othneil
+# 💡 Ideas & Discussions
 
-Siemens-FS decrease PAtrick
+## AI / Innovation
 
-ING SUMMIT
+- 🖼️ AI-generated photo of ideas from **Nabil**
+  - Topics:
+    - MXTIME
+    - CSCRM
 
-Client case: C-2433000
+## Resource / Client Updates
+
+- **ICCREA**
+  - ➕ Increase: Othneil
+
+- **Siemens-FS**
+  - ➖ Decrease: Patrick
+
+---
+
+# 🏦 ING Summit
+
+## Client Case
+
+**Case ID:** `C-2433000`
+
+🔗 Jira:
 https://mxjira.murex.com/browse/CBR-13268
 
-Joseph Aoun November/December/Mid January Paternity leave
+---
 
-Patrick Sarkis wish to be more exposed to function topics FO To BOhttp
+# 👥 Team Updates
 
-Passkeys setup https://murex.service-now.com/now/nav/ui/classic/params/target/kb_view.do%3Fsysparm_article%3DKB0016771
+## Joseph Aoun
 
-Octavio
+📅 Planned **paternity leave**
 
-June resource --> ING SUPPORT
+Period:
+- November
+- December
+- Mid-January
 
+---
 
+## Patrick Sarkis
 
-Training: https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmxlearn.360learning.com%2Fcourse%2Fplay%2F69b966db15c54b4870cc6d10&data=05|02|ginglese%40murex.com|b68af2d0e2de4495f60508de89b84e30|9a839770e9fc4737905c370f65b0e224|0|0|639099621998956243|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D|0|||&sdata=JtDRDQYkTFV5m475%2F7aBBhXAq6F4ddOlew%2BqY5RVqps%3D&reserved=0
+🎯 Objective:
 
-SBI AI
+> Increase exposure to functional topics across the FO → BO chain.
+
+Areas of interest:
+- Front Office (FO)
+- Back Office (BO)
+- Functional topics
+
+---
+
+# 🔐 Security
+
+## Passkeys Setup
+
+Documentation:
+
+🔗  
+https://murex.service-now.com/now/nav/ui/classic/params/target/kb_view.do%3Fsysparm_article%3DKB0016771
+
+---
+
+# 👤 Octavio
+
+## Resource Allocation
+
+- 📅 June resource
+- Assignment:
+  - ING SUPPORT
+
+---
+
+# 🎓 Training
+
+## MxLearn Course
+
+Training link:
+
+🔗  
+https://mxlearn.360learning.com/course/play/69b966db15c54b4870cc6d10
+
+---
+
+# 🤖 AI Topics
+
+## SBI AI
+
+- Explore SBI AI topics
+- Follow-up required
+
+---
+
+# 🏷️ Tags
+
+`#ING` `#AI` `#MXTIME` `#CSCRM` `#Training` `#Security` `#Resources`
