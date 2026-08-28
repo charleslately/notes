@@ -1,104 +1,16 @@
-# Notes
+EMEA-CS-STAFFING & BUDGET New Sourcing Model - Service - S4C Follow-up with Yana,Pepe,Octavio,Juan
 
-## Request
 
-### Evandro MOTA
 
-| Field | Value |
-|---|---|
-| Submitted | 23-Jul-26 11:35:14 |
-| Request Number | REQ0780699 |
-| Estimated Delivery | 24-Jul-26 |
+CS GLOBAL-SBI-AI-FOR-SUPPORT SBI_Requirements&Architecture
 
----
+S4C Team management (O2O with the team, follow-up etc) 0.25
+S4C Pool management 0.20
 
-## Topics & Updates
+S4C AI + Maintainability of the customization EMEA-CS-EUROPE-S4C-PRD MGT
 
-### AI / Innovation
+CS GLOBAL-SBI-INST REHOST-PROD
+SaaS ReHosting Datamart Extract analysis
 
-- AI-generated photo related to Nabil's ideas around:
-  - MXTIME
-  - CSCRM
-
-### Client / Resource Updates
-
-| Client | Change | Person |
-|---|---|---|
-| ICCREA | Increase | Othneil |
-| Siemens-FS | Decrease | Patrick |
-
----
-
-# ING Summit
-
-## Client Case
-
-**Case:** C-2433000
-
-Jira:
-https://mxjira.murex.com/browse/CBR-13268
-
----
-
-# Team Updates
-
-## Joseph Aoun
-
-**Paternity leave planned:**
-
-- November
-- December
-- Mid-January
-
----
-
-## Patrick Sarkis
-
-Objective:
-
-Increase exposure to functional topics across the FO-to-BO chain.
-
-Focus areas:
-
-- Front Office (FO)
-- Back Office (BO)
-- Functional topics
-
----
-
-# Security
-
-## Passkeys Setup
-
-Documentation:
-
-https://murex.service-now.com/now/nav/ui/classic/params/target/kb_view.do%3Fsysparm_article%3DKB0016771
-
----
-
-# Octavio
-
-## Resource Allocation
-
-June resource assignment:
-
-- ING Support
-
----
-
-# Training
-
-## MxLearn Course
-
-Training link:
-
-https://mxlearn.360learning.com/course/play/69b966db15c54b4870cc6d10
-
----
-
-# AI Topics
-
-## SBI AI
-
-- Explore SBI AI topics
-- Follow-up required
+EMEA-CS-STAFFING & BUDGET STAFFING ACTIVITIES Staffing S4C weekly staffing
+https://mxwiki.murex.com/confluence/display/CS/CS+EMEA+-+Time+Booking+on+CS+Activities
